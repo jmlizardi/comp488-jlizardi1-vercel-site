@@ -3,6 +3,12 @@
 This is a simple website created for assignment 2.
 It demonstrates HTML, CSS, JavaScript, Git/Github for version control and deployment with Vercel
 
+## Run Locally
+1. Clone GitHub repo to local system
+- HTTP Link to clone: https://github.com/jmlizardi/comp488-jlizardi1-vercel-site.git
+2. Navigate to assignment_2 direcctory
+3. Open 'index.html' in your browser (double-click or 'open index.html' on macOS)
+
 ## LIVE DEMO
 [view site on Vercel] (https://comp488-vercel-site-4bij.vercel.app/)
 
